@@ -6,7 +6,7 @@
 
 // --- WIFI ---
 const char* ssid     = "CARRO_ESP32";
-const char* password = "fcon2903";
+const char* password = "1234";
 
 // --- UDP ---
 WiFiUDP udp;
